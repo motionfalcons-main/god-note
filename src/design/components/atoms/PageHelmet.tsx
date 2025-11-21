@@ -7,7 +7,7 @@ interface PageHelmetProps {
 }
 
 const PageHelmet: React.FC<PageHelmetProps> = ({
-  title = 'Boost Note',
+  title = 'God Note',
   indexing,
 }) => (
   <Helmet>

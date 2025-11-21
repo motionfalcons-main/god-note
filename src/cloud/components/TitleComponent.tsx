@@ -4,7 +4,7 @@ import styled from '../../design/lib/styled'
 const TitleComponent = () => (
   <StyledTitle>
     <a href='/'>
-      <img src='/static/images/logo_with_text_white.svg' alt='Boost Note' />
+      <img src='/static/images/logo_with_text_white.svg' alt='God Note' />
     </a>
   </StyledTitle>
 )

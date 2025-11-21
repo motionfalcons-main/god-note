@@ -78,11 +78,11 @@ const enTranslation: TranslationSource = {
   [lngKeys.ManagePreferences]: 'Manage your preferences.',
   [lngKeys.ManagePreferencesMarkdownPreview]:
     'Manage your Markdown preview preferences.',
-  [lngKeys.ManageProfile]: 'Manage your Boost Note profile.',
+  [lngKeys.ManageProfile]: 'Manage your God Note profile.',
   [lngKeys.ManageSpaceSettings]: "Manage your space's settings.",
   [lngKeys.ManageTeamMembers]: 'Manage who has access to this space.',
   [lngKeys.ManageIntegrations]:
-    'Connect 3rd party content to your Boost Note documents.',
+    'Connect 3rd party content to your God Note documents.',
   [lngKeys.CurrentMembers]: 'Current members',
   [lngKeys.MembersAccessLevel]: 'Role',
   [lngKeys.AddMembers]: 'Add members',
@@ -128,7 +128,7 @@ const enTranslation: TranslationSource = {
   [lngKeys.ExternalEntity]: 'External Entity',
   [lngKeys.ExternalEntityOpenInBrowser]: 'Open in browser to enable',
   [lngKeys.ExternalEntityDescription]:
-    'Boost Note show you the external content such as Github issues, Trello cards, Google Docs, and much more automatically. What do you want to see on Boost Note?',
+    'God Note shows you the external content such as Github issues, Trello cards, Google Docs, and much more automatically. What do you want to see on God Note?',
   [lngKeys.ExternalEntityRequest]: 'Please let us know your requests!',
   [lngKeys.CommunityFeedback]: 'Feedback',
   [lngKeys.CommunityFeatureRequests]: 'Feature Requests',
@@ -145,7 +145,7 @@ const enTranslation: TranslationSource = {
   [lngKeys.GenerateToken]: 'Generate Token',
   [lngKeys.CreateTokens]: 'Create a new token',
   [lngKeys.TokensName]: 'Your token name...',
-  [lngKeys.TokensDocumentation]: 'documentation for Boost Note API',
+  [lngKeys.TokensDocumentation]: 'documentation for God Note API',
 
   [lngKeys.FormSelectImage]: 'Select Image',
   [lngKeys.FormChangeImage]: 'Change Image',
@@ -184,7 +184,7 @@ const enTranslation: TranslationSource = {
   [lngKeys.PlanStoragePerk]: '{{storageSize}} per member',
   [lngKeys.PlanStandardPerk1]: 'Unlimited members',
   [lngKeys.PlanStandardPerk4]: 'Unlimited documents',
-  [lngKeys.PlanStandardPerk2]: 'Support Boost Note Team',
+  [lngKeys.PlanStandardPerk2]: 'Support God Note Team',
   [lngKeys.PlanStandardPerk3]: '{{days}} days Revision History',
   [lngKeys.PlanProPerk3]: 'Priority Support',
   [lngKeys.PlanProPerk1]: 'Advanced sharing',
@@ -481,7 +481,7 @@ const enTranslation: TranslationSource = {
   [lngKeys.GeneralInbox]: 'Inbox',
   [lngKeys.SidebarNewUserDiscount]: 'Get the new user discount!',
   [lngKeys.SettingsImportDescription]:
-    'No need to start from scratch. Import data into Boost Note by selecting one of the options below.',
+    'No need to start from scratch. Import data into God Note by selecting one of the options below.',
 
   [lngKeys.GeneralPassword]: 'Password',
 
@@ -521,7 +521,7 @@ const enTranslation: TranslationSource = {
   [lngKeys.OnboardingFolderSectionTitle]:
     'Collaborate with your teammates on one platform',
   [lngKeys.OnboardingFolderSectionDisclaimer]:
-    'Welcome to Boost Note – a workspace for DevOps teams where information and collaboration meet. Create, collaborate, and organize all your work in one place.',
+    'Welcome to God Note – a workspace for DevOps teams where information and collaboration meet. Create, collaborate, and organize all your work in one place.',
   [lngKeys.GeneralContent]: 'Content',
 
   [lngKeys.GeneralYes]: 'Yes',

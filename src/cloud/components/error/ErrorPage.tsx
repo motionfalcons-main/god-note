@@ -37,15 +37,9 @@ const ErrorPage = ({ error }: ErrorPageProps) => {
       <Page
         title={`${
           statusCode != null ? `${statusCode} Error` : 'Error'
-        } - Boost Note`}
+        } - God Note`}
       >
         <Container>
-          {query.fromBoostHubDomain === 'true' && (
-            <ColoredBlock variant='info'>
-              We&apos;ve changed the Boost Hub domain to
-              &lsquo;boostnote.io&rsquo;.
-            </ColoredBlock>
-          )}
           <h2 className='heading'>Something went wrong...</h2>
           <ErrorSection
             statusCode={statusCode}
